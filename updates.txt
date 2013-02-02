@@ -1,0 +1,4 @@
+UPDATES FOR THE MEMBERS OF THE TEAM
+====================================
+
+I created the git, and set up forge. I started on coding the main files and stuff.
